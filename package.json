@@ -1,0 +1,16 @@
+{
+  "name": "romannumerals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start",
+    "postinstall":"bower install"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  }
+}
